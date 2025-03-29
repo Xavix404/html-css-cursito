@@ -1,2 +1,3 @@
-# repositorio-1
-mi primer repositorio
+# HTML Y CSS - cursito
+los inventos locos de xavi en html y css
+:D
